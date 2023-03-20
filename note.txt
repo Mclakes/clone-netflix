@@ -1,0 +1,1 @@
+npm i axios firebase styled-components react-icons react-redux @reduxjs/toolkit react-router-dom
